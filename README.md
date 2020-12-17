@@ -13,6 +13,7 @@ What you need before you begin:
 - Genomic DNA human genome reference (GRCh38/hg38) downloaded from ensembl or UCSC.
 
 Below is a schematic of the small RNA library prep and the adapters that get ligated on. 
+![experiment](https://github.com/dwill023/microRNA-seq/blob/main/pics/experiment.JPG)
 
 ## Pre-processing of reads
 In the terminal perfom the following checks within the directory containing the sequencing files(.fastq).
