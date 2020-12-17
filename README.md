@@ -79,5 +79,5 @@ From the paper, [Preprocessing of miRNA-seq data](https://paperpile.com/shared/2
 UQ or TMM for miRNA count normalization for comprehensive miRNA profiling studies.
 
 This can be done using the R package edgeR that calculates the TMM normalization and can be used to assses differential microRNA expression between the samples.
-See the attached R file for these steps.
+See the attached [R file](https://github.com/dwill023/microRNA-seq/blob/main/microRNA_analysis_edger.Rmd) for these steps.
 
